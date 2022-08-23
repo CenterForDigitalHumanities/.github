@@ -14,7 +14,7 @@ beautiful but walled gardens.
 
 Through transformative and non-destructive annotation, the tools that make up our [Rerum ecosystem](http://rerum.io) are designed to be immediately useful 
 to any scholar or developer with many completely open and public services. We connect and interact with universities, libraries, foundations, and 
-individuals across globe, on a mission of recording and sharing our shared human knowledge.
+individuals across the globe, on a mission of recording and sharing our shared human knowledge.
 
 ### Work with Us
 
