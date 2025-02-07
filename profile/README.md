@@ -32,6 +32,7 @@ If you would like to work for us, saving humanity beats most corporate gigs. You
 
 * [Patrick Cuba](https://github.com/orgs/CenterForDigitalHumanities/people/cubap), IT Architect <br>![Github stats](https://github-readme-stats.vercel.app/api?username=cubap&theme=highcontrast&show_icons=true&count_private=true)
 * [Bryan Haberberger](https://github.com/orgs/CenterForDigitalHumanities/people/thehabes), Full-Stack Developer <br>![Github stats](https://github-readme-stats.vercel.app/api?username=thehabes&theme=highcontrast&show_icons=true&count_private=true)
+* [Priyal Patel](https://github.com/orgs/CenterForDigitalHumanities/people/mepripri), Full-Stack Developer <br>![Github stats](https://github-readme-stats.vercel.app/api?username=mepripri&theme=highcontrast&show_icons=true&count_private=true)
 
 #### Alumni Technologists
 
