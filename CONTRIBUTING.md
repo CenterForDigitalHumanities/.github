@@ -29,6 +29,7 @@ Each project has its own setup. Pick one below:
 | [TPEN3](/docs/tpen3.md) | New annotation platform | In development |
 | [tpen.tools](/docs/tpen-tools.md) | Utilities and services | Mature |
 | [Export TPEN](/docs/export-tpen.md) | Export small projects as static files | Mature |
+| [TPEN-IDE](/docs/tpen-ide.md) | Transcription and prompt workspace | Prototype |
 
 **Note:** the legacy T-PEN 2.8 platform is not yet documented here — coming soon.
 
